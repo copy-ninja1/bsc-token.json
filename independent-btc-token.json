@@ -2,6 +2,6 @@
     "name": "BTC Token",
     "symbol": "BTC",
     "decimals": 18,
-    "description": "Independent token. Not Bitcoin, not issued by Binance, and not backed by Bitcoin.",
-    "image": "https://example.com/logo.png"
+    "description": "",
+    "image": "https://en.wikipedia.org/wiki/File:Bitcoin.svg"
   }
